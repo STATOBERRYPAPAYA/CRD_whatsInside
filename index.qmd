@@ -1,0 +1,226 @@
+---
+title: "RAISINS CRD - What's Inside?"
+format:
+    revealjs:
+        theme: [night]
+        slide-number: true
+        controls: true
+        show-slide-number: speaker
+        chalkboard: false
+        code-line-numbers: false
+        preview-links: auto
+        preloadIframes: true
+author: "Team STATOBERRY LLP"
+date: 15/03/2024
+date-format: "ddd Do MMMM YYYY"
+footer: "RAISINS at Statoberry LLP"
+from: markdown+emoji
+---
+
+##  {.center transition="convex"}
+
+<center>**RAISINS CRD**, developed by ![](images/stato.png){width="233"} is more than just an analysis tool—it’s a complete solution for researchers working with Completely Randomized Designs. By combining powerful analytics, AI-driven insights, and publication-ready outputs, it transforms the way data is processed and presented.</center>
+
+##  {.center transition="convex"}
+
+<center>**Have a dataset to Analyse**</center>
+
+![](images/Analysis%20Digital%20Marketing.gif){fig-align="center" width="515" height="436"}
+
+<center>**DON'T WAIT ! JUST UPLOAD**</center>
+
+##  {.center transition="convex"}
+
+![](images/Businessman%20Holding%20Blank%20Placard.gif){width="481"} ![](images/clipboard-853544563.png){width="534" height="434"}
+
+::: chat-bubble
+Here's the Model data!
+:::
+
+```{=html}
+<style>
+.image-container {
+  position: relative;
+  display: inline-block; /* Keeps images side by side */
+  margin: 10px;
+}
+
+.image-container img {
+  animation: fadeIn 0.5s ease-in-out;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: scale(0.8); }
+  100% { opacity: 1; transform: scale(1); }
+}
+
+/* Chat Bubble Styling */
+.chat-bubble {
+  position: absolute;
+  top: -50px; /* Position above the image */
+  left: 50%;
+  transform: translateX(-50%);
+  background-color: #3498db;
+  color: white;
+  padding: 10px 15px;
+  border-radius: 15px;
+  font-family: 'Arial', sans-serif;
+  font-size: 1em;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  opacity: 0;
+  animation: bubblePop 1s ease-in-out forwards;
+  animation-delay: 0.5s; /* Appears after the image fade-in */
+}
+
+@keyframes bubblePop {
+  0% { opacity: 0; transform: translateX(-50%) translateY(10px); }
+  100% { opacity: 1; transform: translateX(-50%) translateY(0); }
+}
+</style>
+```
+
+<center>**MAKE A CLEAN DATASET**</center>
+
+------------------------------------------------------------------------
+
+##  {.center transition="zoom"}
+
+<center>**Want to create one ?**</center>
+
+![](images/template%20data.png){width="771"}
+
+<center>**USE CREATE DATASET OPTION**</center>
+
+##  {.center transition="convex"}
+
+<center class="title-slide">
+
+**ANALYSE AND EXPLORE**
+
+</center>
+
+<center>
+
+<ul class="feature-list">
+
+<li class="fragment fade-in">
+
+Publication Ready Tables :bookmark_tabs:
+
+</li>
+
+<li class="fragment fade-in">
+
+Advanced Plots :mortar_board:
+
+</li>
+
+<li class="fragment fade-in">
+
+AI Interpretation :ledger:
+
+</li>
+
+<li class="fragment fade-in">
+
+Multivariate Analysis :bar_chart:
+
+</li>
+
+<li class="fragment fade-in">
+
+Export in PDF,HTML,WORD :chart_with_upwards_trend:
+
+</li>
+
+</ul>
+
+</center>
+
+##  {.center transition="convex"}
+
+<center>
+
+**Still Confused ?** ![](images/CRD%20ANA%20(1).gif){fig-align="center"}
+
+<center>**JUST RELAX !**</center>
+
+</center>
+
+##  {.center transition="zoom"}
+
+<center>**ADVANCED PLOTS and CUSTOMISATION FEATURES**</center>
+
+<center>
+
+::: {style="display: inline-block; margin: 10px;"}
+<img src="images/clipboard-2362480097.png" style="width: 250px; transition: transform 1s;" onclick="this.style.transform=&apos;scale(2.5)&apos;; setTimeout(() =&gt; this.style.transform=&apos;scale(1)&apos;, 500);"/>
+:::
+
+::: {style="display: inline-block; margin: 10px;"}
+<img src="images/crdp_corrPlot-2025-03-26.png" style="width: 250px; transition: transform 1s;" onclick="this.style.transform=&apos;scale(2.5)&apos;; setTimeout(() =&gt; this.style.transform=&apos;scale(1)&apos;, 500);"/>
+:::
+
+::: {style="display: inline-block; margin: 10px;"}
+<img src="images/crdp_boxplot-2025-03-26.png" style="width: 250px; height: 250px; transition: transform 1s;" onclick="this.style.transform=&apos;scale(2.5)&apos;; setTimeout(() =&gt; this.style.transform=&apos;scale(1)&apos;, 500);"/>
+:::
+
+::: {style="display: inline-block; margin: 10px;"}
+<img src="images/crdp_connectedPlot-2025-03-26.png" style="width: 250px; height: 250px; transition: transform 1s;" onclick="this.style.transform=&apos;scale(2.5)&apos;; setTimeout(() =&gt; this.style.transform=&apos;scale(1)&apos;, 500);"/>
+:::
+
+::: {style="display: inline-block; margin: 10px;"}
+<img src="images/crdp_meanValuePlot-2025-03-26.png" style="width: 250px; transition: transform 1s;" onclick="this.style.transform=&apos;scale(2.5)&apos;; setTimeout(() =&gt; this.style.transform=&apos;scale(1)&apos;, 500);"/>
+:::
+
+::: {style="display: inline-block; margin: 10px;"}
+<img src="images/crdp_violinplot-2025-03-26.png" style="width: 250px; height: 250px; transition: transform 1s;" onclick="this.style.transform=&apos;scale(2.5)&apos;; setTimeout(() =&gt; this.style.transform=&apos;scale(1)&apos;, 500);"/>
+:::
+
+</center>
+
+##  {.center transition="convex"}
+
+<center>**AI INTERPRETATION**</center>
+
+<center>
+
+**RAISINS CRD** integrates AI-driven interpretation to enhance the analytical process, making complex statistical results more accessible and insightful.
+
+<center>
+
+::: {.fragment .grow}
+![what more do you need when there is **RAISINS CRD**](images/Growth%20Analysis.gif){fig-align="center" width="287"}
+:::
+
+##  {.center transition="convex"}
+
+<center>**Confusion with Interpretation?**</center>
+
+<center>
+
+![](images/AI.gif){fig-align="center" width="1886"}
+
+**We are there to guide you**
+
+</center>
+
+##  {.center transition="convex"}
+
+<center>MULTIVARIATE ANALYSIS</center>
+
+![](images/pca.gif).
+
+<center>**MANOVA & PCA**</center>
+
+##  {.center transition="convex"}
+
+<center>**Where to access ?**</center>
+
+![](images/raisin.jpg){fig-align="center" width="279"}
+
+<center>:point_right:[**www.raisins.live**](https://www.raisins.live/)</center>
+
+##  {.center transition="convex"}
+
+![](images/text@2x.png){fig-align="center"}

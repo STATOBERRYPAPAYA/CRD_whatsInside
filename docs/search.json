@@ -1,0 +1,604 @@
+[
+  {
+    "objectID": "index.html#first-slide",
+    "href": "index.html#first-slide",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "First slide!",
+    "text": "First slide!"
+  },
+  {
+    "objectID": "index.html#second-slide",
+    "href": "index.html#second-slide",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "Second slide!",
+    "text": "Second slide!\nContent!\nEmojis are supported 😄"
+  },
+  {
+    "objectID": "index.html#data",
+    "href": "index.html#data",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "Data!",
+    "text": "Data!\nThis is how you prepare your data! So easy right!"
+  },
+  {
+    "objectID": "index.html#welcome-to-raisins-crd",
+    "href": "index.html#welcome-to-raisins-crd",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Welcome to RAISINS CRD",
+    "text": "Welcome to RAISINS CRD\n\nRAISINS CRD, developed by  is more than just an analysis tool—it’s a complete solution for researchers working with Completely Randomized Designs.\n\n\n\nBy combining powerful analytics, AI-driven insights, and publication-ready outputs, it transforms the way data is processed and presented."
+  },
+  {
+    "objectID": "index.html#how-it-works",
+    "href": "index.html#how-it-works",
+    "title": "RAISINS CRD\n- What’s Inside?”",
+    "section": "How It Works! ⚙️",
+    "text": "How It Works! ⚙️\nStep 1: You Dream It!\n\nNumber of treatments: 3? 5? 10? You decide!\n\nNumber of replications: More data, more power! 🔋\n\nStep 2: Add Some Flavor!\n\nChoose characters to analyze: Yield? Growth? Taste? 🍇\n\nStep 3: RAISINS Delivers!\n\nHit the button, and poof! An Excel file ready to roll! 📈\n\n\n\n\n\n\n\n\nTip\n\n\nPro Tip: Perfect for researchers, analysts, and stats lovers!"
+  },
+  {
+    "objectID": "index.html#why-raisins-crd",
+    "href": "index.html#why-raisins-crd",
+    "title": "RAISINS CRD\n- What’s Inside?”",
+    "section": "Why RAISINS CRD? 🌟",
+    "text": "Why RAISINS CRD? 🌟\n\n\n\nFeature\nOld Way 😴\nRAISINS Way 🚀\n\n\n\n\nDataset Creation\nHours of work\nSeconds of clicks\n\n\nFlexibility\nRigid templates\nFully customizable\n\n\nOutput\nMessy notes\nClean Excel file\n\n\n\n\nNo more data headaches—RAISINS CRD has your back!"
+  },
+  {
+    "objectID": "index.html#lets-get-creative",
+    "href": "index.html#lets-get-creative",
+    "title": "RAISINS CRD\n- What’s Inside?”",
+    "section": "Let’s Get Creative! 🎨",
+    "text": "Let’s Get Creative! 🎨\nExample Dataset in Action!\nImagine analyzing grape varieties with RAISINS CRD:\n- Treatments: Different grape varieties 🍇\n- Replications: Multiple observations per variety\n- Characters: Yield, Obs1, Obs2, FW\nHere’s what RAISINS CRD generates:\n\nNote: This is a sample dataset with grape varieties like Alphonso, Keser, and more!\n\nDownloadable as Excel with one click! 📥"
+  },
+  {
+    "objectID": "index.html#ready-to-try-it",
+    "href": "index.html#ready-to-try-it",
+    "title": "RAISINS CRD\n- What’s Inside?”",
+    "section": "Ready to Try It? 🚀",
+    "text": "Ready to Try It? 🚀\nRAISINS CRD: Where stats meet simplicity!\n- Enter your inputs\n- Watch the dataset grow 🌿\n- Analyze away!\nStart Now\nBuilt with ❤️ by Statoberry LLP\n\nRemind the audience: It’s fast, fun, and free to explore!"
+  },
+  {
+    "objectID": "index.html#slide-1-create-your-dataset",
+    "href": "index.html#slide-1-create-your-dataset",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 1: Create Your Dataset",
+    "text": "Slide 1: Create Your Dataset\nAs Easy as Picking Raisins! 🙋\n\nInput your data manually with our interactive widget 💻\nRandomize treatments across experimental units effortlessly\nPreview your dataset live with a sleek table animation ➡️\n\n\n\n\n\n\n\nTip\n\n\nTry it! Watch your data sprout into rows and columns!"
+  },
+  {
+    "objectID": "index.html#slide-2-upload-your-files",
+    "href": "index.html#slide-2-upload-your-files",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 2: Upload Your Files",
+    "text": "Slide 2: Upload Your Files\nDrag, Drop, Done! 📁\n\nUpload CSV, Excel, or text files with a smooth drag-and-drop interface\nSupports images and PDFs for metadata 📷\nInstant validation with a ✅ confirmation bounce!\n\n\nFiles processed faster than you can say “CRD”!"
+  },
+  {
+    "objectID": "index.html#slide-3-analysis-unleashed",
+    "href": "index.html#slide-3-analysis-unleashed",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 3: Analysis Unleashed",
+    "text": "Slide 3: Analysis Unleashed\nThesis-Ready Tables in a Snap 📚\n\nOne-click CRD analysis: ANOVA, F-tests, p-values\nOutputs polished tables with a flip animation\nExport to LaTeX, Word, or PDF 💾\n\n\n\n\n\n\n\nNote\n\n\nYour thesis committee will love this!"
+  },
+  {
+    "objectID": "index.html#slide-4-boxplot-bonanza",
+    "href": "index.html#slide-4-boxplot-bonanza",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 4: Boxplot Bonanza",
+    "text": "Slide 4: Boxplot Bonanza\nRaisins in a Statistical Sky ☁️\n\nBoxplots rise like skyscrapers, whiskers twirling upward\nOutliers pop like raisins with a red light leak flash\nHover for a cosmic tooltip 🔭\n\n\n\n\n\nBoxplots burst from the ground, blue light leaks streaking"
+  },
+  {
+    "objectID": "index.html#slide-5-violin-box-symphony",
+    "href": "index.html#slide-5-violin-box-symphony",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 5: Violin-Box Symphony",
+    "text": "Slide 5: Violin-Box Symphony\nElegance Meets Insight 🎻\n\nHybrid Violin-Box Plot with smooth curves\nAnimated fill effect reveals data density\nCompare groups with a side-by-side wiggle 🎵\n\n\n\n\n\n\n\nTip\n\n\nPerfect for spotting skewness and spread!"
+  },
+  {
+    "objectID": "index.html#slide-6-plot-parade",
+    "href": "index.html#slide-6-plot-parade",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 6: Plot Parade",
+    "text": "Slide 6: Plot Parade\nMean Value, Connected Lines, & Bars 📈\n\nMean Value Plot: Dots zoom in with error bars\nConnected Line Plot: Lines trace trends with a swoosh\nBar Plot with Letter Grouping: Bars rise with Tukey HSD letters 🔡\n\n\nClick a bar to highlight significant differences!"
+  },
+  {
+    "objectID": "index.html#slide-7-pairplot-correlation",
+    "href": "index.html#slide-7-pairplot-correlation",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 7: Pairplot & Correlation",
+    "text": "Slide 7: Pairplot & Correlation\nA Galaxy of Gleaming Insights 🌌\n\nPairplot: Scatters pop, indigo light leaks framing them\nCorrelation Heatmap: Colors pulse with a ruby leak flare\nRaisins orbit key trends—zoom with a radiant click 🧭\n\n\n\n\n\nStars align, raisins in a ruby light leak haze"
+  },
+  {
+    "objectID": "index.html#slide-8-ai-interpretation",
+    "href": "index.html#slide-8-ai-interpretation",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 8: AI Interpretation",
+    "text": "Slide 8: AI Interpretation\nYour Virtual Statistician 🤖\n\nAI breaks down results in plain English\nHighlights key findings with a spotlight animation\nSuggests next steps: “Try a post-hoc test!” 💡\n\n\n“Significant at p &lt; 0.05? Let me explain why!”"
+  },
+  {
+    "objectID": "index.html#slide-9-multivariate-magic",
+    "href": "index.html#slide-9-multivariate-magic",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 9: Multivariate Magic",
+    "text": "Slide 9: Multivariate Magic\nMANOVA & PCA 🔮\n\nMANOVA: Test multiple outcomes with a swirl effect\nPrincipal Components Analysis: 3D biplot spins into view\nExport high-res plots for publications 🖨️\n\n\nUnpack complex data like a pro!"
+  },
+  {
+    "objectID": "index.html#slide-10-your-raisins-journey",
+    "href": "index.html#slide-10-your-raisins-journey",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 10: Your RAISINS Journey",
+    "text": "Slide 10: Your RAISINS Journey\nFrom Data to Discovery 🚀\n\nCreate, upload, analyze, and visualize—all in one tool\nAI insights + stunning plots = publication-ready results\nJoin the RAISINS revolution at Statoberry LLP 🍇 🌟\n\n\nReady to crunch some data? Let’s go!"
+  },
+  {
+    "objectID": "index.html#the-raisins-crd-adventure-begins",
+    "href": "index.html#the-raisins-crd-adventure-begins",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "The RAISINS CRD Adventure Begins!",
+    "text": "The RAISINS CRD Adventure Begins!\nUnleash the Power of Crunchy Stats 🍇\n\nRAISINS: Randomized Analysis & Insights System In Nice Statistics\nPicture this: Raisins popping out of a cosmic vine ✨\nLight leaks flare across the screen, revealing CRD’s secrets!\n\n\n\n\n\nA cluster of raisins explodes into data points with a golden light leak"
+  },
+  {
+    "objectID": "index.html#slide-1-craft-your-dataset",
+    "href": "index.html#slide-1-craft-your-dataset",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 1: Craft Your Dataset",
+    "text": "Slide 1: Craft Your Dataset\nA Galactic Data Garden 🌱\n\nPlant your data seeds in an interstellar widget ☄️\nWatch rows bloom with a popping animation as raisins scatter\nLight leaks shimmer across the table edges 🌈\n\n\n\n\n\nRaisins morph into a dataset table, glowing with purple light leaks"
+  },
+  {
+    "objectID": "index.html#slide-2-upload-files",
+    "href": "index.html#slide-2-upload-files",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 2: Upload Files",
+    "text": "Slide 2: Upload Files\nA Cosmic Conveyor Belt 🚀\n\nDrag your files into a swirling vortex 🌀\nCSV, Excel, even PDFs—processed with a raisin explosion\nA prism of light leaks dances as files land 🌟\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nFiles zip through a starry tunnel, raisins popping"
+  },
+  {
+    "objectID": "index.html#slide-3-analysis-alchemy",
+    "href": "index.html#slide-3-analysis-alchemy",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 3: Analysis Alchemy",
+    "text": "Slide 3: Analysis Alchemy\nThesis Gold from Raw Data ⚗️\n\nOne tap: ANOVA brews, F-tests bubble, p-values sparkle\nTables flip into existence with a golden light leak glow\nExport with a poof to LaTeX or PDF 📜\n\n\n\n\n\nA cauldron stirs stats, raisins turning into tables"
+  },
+  {
+    "objectID": "index.html#slide-5-violin-box-ballet",
+    "href": "index.html#slide-5-violin-box-ballet",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 5: Violin-Box Ballet",
+    "text": "Slide 5: Violin-Box Ballet\nA Dance of Data 💃\n\nViolin plots sway with a gentle purple light leak\nBoxes pirouette inside, revealing density with a spin\nRaisins rain down, forming group comparisons 🎭\n\n\n\n\n\nViolins twirl with raisin confetti, pink light leaks"
+  },
+  {
+    "objectID": "index.html#slide-6-plot-extravaganza",
+    "href": "index.html#slide-6-plot-extravaganza",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 6: Plot Extravaganza",
+    "text": "Slide 6: Plot Extravaganza\nA Statistical Circus 🎪\n\nMean Value Plot: Stars pulse with error bars\nConnected Line Plot: Lines somersault with orange light leaks\nBar Plot with Letters: Bars leap up, letters raining down 🔡\n\n\n\n\n\nRaisins juggle plots, green light leaks swirling"
+  },
+  {
+    "objectID": "index.html#slide-8-ai-oracle",
+    "href": "index.html#slide-8-ai-oracle",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 8: AI Oracle",
+    "text": "Slide 8: AI Oracle\nThe Raisin Whisperer 🔮\n\nAI unveils mysteries with a spotlight sweep and blue light leaks\nPlain English insights pop like raisins from a vine\n“Run PCA next!” it chants with a mystical hum 🤖\n\n\n\n\n\nAn AI face emerges from raisins, golden light leaks"
+  },
+  {
+    "objectID": "index.html#slide-9-multivariate-majesty",
+    "href": "index.html#slide-9-multivariate-majesty",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 9: Multivariate Majesty",
+    "text": "Slide 9: Multivariate Majesty\nRaisins in a Radiant Realm 👑\n\nMANOVA: Outcomes pop with multicolor light leaks\nPCA: 3D biplot spins, raisins in a prism leak vortex\nPlots shimmer, ready for your journal 💎\n\n\n\n\n\nRaisins warp into PCA, rainbow light leaks"
+  },
+  {
+    "objectID": "index.html#slide-10-the-raisins-legacy",
+    "href": "index.html#slide-10-the-raisins-legacy",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 10: The RAISINS Legacy",
+    "text": "Slide 10: The RAISINS Legacy\nFrom Crunch to Cosmos 🚀\n\nCreate, analyze, visualize—wrapped in a raisin-powered dream\nLight leaks cascade as your results shine 🌅\nJoin Statoberry LLP’s statistical odyssey 🍇 🎉\n\n\n\n\n\nA raisin rocket launches, rainbow light leaks trailing"
+  },
+  {
+    "objectID": "index.html#raisins-crd-a-radiant-dawn",
+    "href": "index.html#raisins-crd-a-radiant-dawn",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "RAISINS CRD: A Radiant Dawn!",
+    "text": "RAISINS CRD: A Radiant Dawn!\nStats Bathed in Light Leaks 🍇\n\nRAISINS: Randomized Analysis & Insights System In Nice Statistics\nRaisins pop from a vine, golden light leaks streaking across 🌅\nCRD analysis ignites with a cosmic shimmer!\n\n\n\n\n\nRaisins burst forth, amber light leaks flaring"
+  },
+  {
+    "objectID": "index.html#slide-1-sculpt-your-dataset",
+    "href": "index.html#slide-1-sculpt-your-dataset",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "Slide 1: Sculpt Your Dataset",
+    "text": "Slide 1: Sculpt Your Dataset\nA Prism of Possibilities 🎨\n\nMold data in a widget kaleidoscope 🌈\nRows pop into view, purple light leaks pulsing around them\nWatch your dataset glow with a radiant swirl!\n\n\n\n\n\nRaisins tumble into a table, violet light leaks dancing"
+  },
+  {
+    "objectID": "index.html#slide-2-file-fusion",
+    "href": "index.html#slide-2-file-fusion",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 2: File Fusion",
+    "text": "Slide 2: File Fusion\nA Light-Leaked Launchpad 🚀\n\nToss CSV, Excel, or PDFs into a cosmic cauldron\nFiles pop and fuse, crimson light leaks exploding outward 🔥\nData lands with a dazzling flare of teal beams!\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nRaisins rocket files upward, red light leaks bursting"
+  },
+  {
+    "objectID": "index.html#slide-3-analysis-inferno",
+    "href": "index.html#slide-3-analysis-inferno",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 3: Analysis Inferno",
+    "text": "Slide 3: Analysis Inferno\nTables in a Blaze of Glory 🌋\n\nANOVA erupts, F-tests flare, p-values pop like embers\nTables rise with a golden light leak sweep\nExport with a fiery flash to LaTeX or PDF 📜\n\n\n\n\n\nA volcano spews raisins into tables, orange light leaks"
+  },
+  {
+    "objectID": "index.html#slide-4-boxplot-brilliance",
+    "href": "index.html#slide-4-boxplot-brilliance",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 4: Boxplot Brilliance",
+    "text": "Slide 4: Boxplot Brilliance\nRaisins in a Radiant Storm :thunder_hub:\n\nBoxplots surge upward, whiskers glowing with blue light leaks\nOutliers pop with a neon green leak flash\nHover for a prism-lit tooltip 🔍\n\n\n\n\n\nBoxplots rise, blue light leaks streaking"
+  },
+  {
+    "objectID": "index.html#slide-5-violin-box-mirage",
+    "href": "index.html#slide-5-violin-box-mirage",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 5: Violin-Box Mirage",
+    "text": "Slide 5: Violin-Box Mirage\nA Shimmering Symphony 🎼\n\nViolin plots ripple in, pink light leaks tracing their curves\nBoxes pop inside, bathed in a lavender leak glow\nRaisins swirl around, marking group differences!\n\n\n\n\n\nViolins sway, raisins framed by pink light leaks"
+  },
+  {
+    "objectID": "index.html#slide-6-plot-panorama",
+    "href": "index.html#slide-6-plot-panorama",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 6: Plot Panorama",
+    "text": "Slide 6: Plot Panorama\nA Light-Leaked Carnival 🎡\n\nMean Value Plot: Dots pop with turquoise light leaks\nConnected Line Plot: Lines arc, yellow leaks trailing\nBar Plot with Letters: Bars leap, letters in emerald leaks 🔡\n\n\n\n\n\nRaisins juggle plots, teal light leaks swirling"
+  },
+  {
+    "objectID": "index.html#slide-8-ai-illumination",
+    "href": "index.html#slide-8-ai-illumination",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 8: AI Illumination",
+    "text": "Slide 8: AI Illumination\nThe Light-Leaked Oracle 🏮\n\nAI pops insights with a golden light leak spotlight\nWords flow like a river of sapphire beams\n“Try MANOVA!” it beams with a radiant hum 🤖\n\n\n\n\n\nAn oracle casts raisins into text, gold light leaks"
+  },
+  {
+    "objectID": "index.html#slide-10-raisins-radiance",
+    "href": "index.html#slide-10-raisins-radiance",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Slide 10: RAISINS Radiance",
+    "text": "Slide 10: RAISINS Radiance\nFrom Crunch to Celestial 🌟\n\nSculpt, analyze, visualize—all in a light-leaked dream\nRaisins pop into brilliance with every step 🎉\nConquer stats with Statoberry LLP’s glowing legacy 🍇\n\n\n\n\n\nA raisin starship soars, rainbow light leaks trailing"
+  },
+  {
+    "objectID": "index.html#raisins-crd",
+    "href": "index.html#raisins-crd",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "RAISINS CRD",
+    "text": "RAISINS CRD\n\nRAISINS CRD, developed by \nis more than just an analysis tool—it’s a complete solution for researchers working with Completely Randomized Designs. By combining powerful analytics, AI-driven insights, and publication-ready outputs, it transforms the way data is processed and presented."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "format: revealjs: theme: [night] slide-number: true controls: true show-slide-number: speaker chalkboard: false code-line-numbers: false preview-links: auto transition: zoom # Explosive zooms for drama transition-speed: slow # Savor the light leaks css: custom.css # For light leak effects author: “Dr. Pratheesh P Gopinath” date: 03/15/2025 date-format: “ddd Do MMMM YYYY” footer: “RAISINS at Statoberry LLP” from: markdown+emoji —"
+  },
+  {
+    "objectID": "index.html#raisins-crd-a-cosmic-crunch-unleashed",
+    "href": "index.html#raisins-crd-a-cosmic-crunch-unleashed",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "RAISINS CRD: A Cosmic Crunch Unleashed!",
+    "text": "RAISINS CRD: A Cosmic Crunch Unleashed!\nStatoberry’s Stellar Solution 🍇 ✨\nRAISINS CRD, developed by Statoberry LLP, is more than just an analysis tool—it’s a complete solution for researchers working with Completely Randomized Designs. By combining powerful analytics, AI-driven insights, and publication-ready outputs, it transforms the way data is processed and presented.\n\n\n\n\nRaisins rocket through a cosmic storm, amber light leaks flaring"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "RAISINS CRD, developed by  is more than just an analysis tool—it’s a complete solution for researchers working with Completely Randomized Designs. By combining powerful analytics, AI-driven insights, and publication-ready outputs, it transforms the way data is processed and presented."
+  },
+  {
+    "objectID": "index.html#raisins-crd-unleash-the-data-magic",
+    "href": "index.html#raisins-crd-unleash-the-data-magic",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "RAISINS CRD: Unleash the Data Magic!",
+    "text": "RAISINS CRD: Unleash the Data Magic!\n\n\n\n**RAISINS CRD** :star2:\n\n\n\n\n\nRAISINS CRD, developed by Statoberry LLP 🍇, is more than just an analysis tool 📊—it’s a complete solution 🎉 for researchers working with Completely Randomized Designs 🌱! 🚀\n\n\n\n\nBy combining powerful analytics 🔥, AI-driven insights 🧠, and publication-ready outputs 📜, it transforms the way data is processed and presented 🎨! ✨\n\n\n\n\n\n\nSlide 1: Sculpt Your Dataset\nA Prism of Possibilities 🎨\n\nMold data in a widget kaleidoscope 🌈\nRows pop into view, purple light leaks pulsing around them\nWatch your dataset glow with a radiant swirl!\n\n\n\n\n\nRaisins tumble into a table, violet light leaks dancing\n\n\n\n\n\n\nSlide 2: File Fusion\nA Light-Leaked Launchpad 🚀\n\nToss CSV, Excel, or PDFs into a cosmic cauldron\nFiles pop and fuse, crimson light leaks exploding outward 🔥\nData lands with a dazzling flare of teal beams!\n\n\n\n\n\n\n\nTip\n\n\n\n\n\nRaisins rocket files upward, red light leaks bursting\n\n\n\n\n\n\n\n\nSlide 3: Analysis Inferno\nTables in a Blaze of Glory 🌋\n\nANOVA erupts, F-tests flare, p-values pop like embers\nTables rise with a golden light leak sweep\nExport with a fiery flash to LaTeX or PDF 📜\n\n\n\n\n\nA volcano spews raisins into tables, orange light leaks\n\n\n\n\n\n\nSlide 4: Boxplot Brilliance\nRaisins in a Radiant Storm :thunder_hub:\n\nBoxplots surge upward, whiskers glowing with blue light leaks\nOutliers pop with a neon green leak flash\nHover for a prism-lit tooltip 🔍\n\n\n\n\n\nBoxplots rise, blue light leaks streaking\n\n\n\n\n\n\nSlide 5: Violin-Box Mirage\nA Shimmering Symphony 🎼\n\nViolin plots ripple in, pink light leaks tracing their curves\nBoxes pop inside, bathed in a lavender leak glow\nRaisins swirl around, marking group differences!\n\n\n\n\n\nViolins sway, raisins framed by pink light leaks\n\n\n\n\n\n\nSlide 6: Plot Panorama\nA Light-Leaked Carnival 🎡\n\nMean Value Plot: Dots pop with turquoise light leaks\nConnected Line Plot: Lines arc, yellow leaks trailing\nBar Plot with Letters: Bars leap, letters in emerald leaks 🔡\n\n\n\n\n\nRaisins juggle plots, teal light leaks swirling\n\n\n\n\n\n\nSlide 7: Pairplot & Correlation\nA Galaxy of Gleaming Insights 🌌\n\nPairplot: Scatters pop, indigo light leaks framing them\nCorrelation Heatmap: Colors pulse with a ruby leak flare\nRaisins orbit key trends—zoom with a radiant click 🧭\n\n\n\n\n\nStars align, raisins in a ruby light leak haze\n\n\n\n\n\n\nSlide 8: AI Illumination\nThe Light-Leaked Oracle 🏮\n\nAI pops insights with a golden light leak spotlight\nWords flow like a river of sapphire beams\n“Try MANOVA!” it beams with a radiant hum 🤖\n\n\n\n\n\nAn oracle casts raisins into text, gold light leaks\n\n\n\n\n\n\nSlide 9: Multivariate Majesty\nRaisins in a Radiant Realm 👑\n\nMANOVA: Outcomes pop with multicolor light leaks\nPCA: 3D biplot spins, raisins in a prism leak vortex\nPlots shimmer, ready for your journal 💎\n\n\n\n\n\nRaisins warp into PCA, rainbow light leaks\n\n\n\n\n\n\nSlide 10: RAISINS Radiance\nFrom Crunch to Celestial 🌟\n\nSculpt, analyze, visualize—all in a light-leaked dream\nRaisins pop into brilliance with every step 🎉\nConquer stats with Statoberry LLP’s glowing legacy 🍇\n\n\n\n\n\nA raisin starship soars, rainbow light leaks trailing"
+  },
+  {
+    "objectID": "index.html#first-create-the-dataset",
+    "href": "index.html#first-create-the-dataset",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "First Create the Dataset",
+    "text": "First Create the Dataset\n\n\nIn RAISINS CRD, the dataset should be structured with the first column representing treatments, including replications, while subsequent columns contain the characters to be analyzed.\n\n\nThe file can be saved and uploaded in CSV or EXCEL format.\n\nDon’t worry I’ll give you a model"
+  },
+  {
+    "objectID": "index.html#raisins-crd-discover-the-magic",
+    "href": "index.html#raisins-crd-discover-the-magic",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "RAISINS CRD: Discover the Magic!",
+    "text": "RAISINS CRD: Discover the Magic!\n\n\n\n**RAISINS CRD** :star2:\n\n\n\n\n\nRAISINS CRD, developed by Statoberry LLP, is more than just an analysis tool—it’s a complete solution for researchers working with Completely Randomized Designs. By combining powerful analytics, AI-driven insights, and publication-ready outputs, it transforms the way data is processed and presented."
+  },
+  {
+    "objectID": "index.html#interactive-text-reveal",
+    "href": "index.html#interactive-text-reveal",
+    "title": "RAISINS CRD - Whats Inside?",
+    "section": "Interactive Text Reveal",
+    "text": "Interactive Text Reveal\nBelow is an image. Click it to reveal a description of RAISINS CRD with a typewriter effect.\n\n\n\n&lt;span id=\"typewriter\"&gt;&lt;/span&gt;"
+  },
+  {
+    "objectID": "index.html#model-dataset",
+    "href": "index.html#model-dataset",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Model DATASET",
+    "text": "Model DATASET\n \n\nHere’s the data!"
+  },
+  {
+    "objectID": "index.html#dont-have-a-dataset-create-one-in-raisins-crd",
+    "href": "index.html#dont-have-a-dataset-create-one-in-raisins-crd",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Don’t have a DATASET ! , create one in RAISINS CRD",
+    "text": "Don’t have a DATASET ! , create one in RAISINS CRD"
+  },
+  {
+    "objectID": "index.html#section-1",
+    "href": "index.html#section-1",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "Have a dataset to Analyse\n\n\n\n\n\n\n\nDON’T WAIT ! JUST UPLOAD"
+  },
+  {
+    "objectID": "index.html#section-2",
+    "href": "index.html#section-2",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "Here’s the Model data!\n\n\n\nMAKE A CLEAN DATASET"
+  },
+  {
+    "objectID": "index.html#analyse-and-explore-the-raisins-crd",
+    "href": "index.html#analyse-and-explore-the-raisins-crd",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Analyse and explore the RAISINS CRD",
+    "text": "Analyse and explore the RAISINS CRD\nRaisins in a Radiant Storm :thunder_hub:\n\nBoxplots surge upward, whiskers glowing with blue light leaks\nOutliers pop with a neon green leak flash\nHover for a prism-lit tooltip 🔍\n\n\n\n\n\nBoxplots rise, blue light leaks streaking"
+  },
+  {
+    "objectID": "index.html#analyse-and-explore",
+    "href": "index.html#analyse-and-explore",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Analyse and Explore",
+    "text": "Analyse and Explore\n\nAnalyse and Explore\n\n\n\n- Publication Ready Tables 📑\n\n\n- Advanced Plots 🎓\n\n\n- AI Interpretation 📒"
+  },
+  {
+    "objectID": "index.html#section-3",
+    "href": "index.html#section-3",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "Want to create one ?\n\n\n\nUSE CREATE DATASET OPTION"
+  },
+  {
+    "objectID": "index.html#letter-by-letter-animation",
+    "href": "index.html#letter-by-letter-animation",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Letter-by-Letter Animation",
+    "text": "Letter-by-Letter Animation\n\n&lt;span&gt;R&lt;/span&gt;&lt;span&gt;A&lt;/span&gt;&lt;span&gt;I&lt;/span&gt;&lt;span&gt;S&lt;/span&gt;&lt;span&gt;I&lt;/span&gt;&lt;span&gt;N&lt;/span&gt;&lt;span&gt;S&lt;/span&gt;\n&lt;span&gt;C&lt;/span&gt;&lt;span&gt;R&lt;/span&gt;&lt;span&gt;D&lt;/span&gt;"
+  },
+  {
+    "objectID": "index.html#letter-by-letter-breakdown",
+    "href": "index.html#letter-by-letter-breakdown",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Letter-by-Letter Breakdown",
+    "text": "Letter-by-Letter Breakdown\n\nR\n\n\nA\n\n\nI\n\n\nS\n\n\nI\n\n\nN\n\n\nS\n\n\n \n\n\nC\n\n\nR\n\n\nD"
+  },
+  {
+    "objectID": "index.html#automatic-reveal-of-raisins-crd",
+    "href": "index.html#automatic-reveal-of-raisins-crd",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Automatic Reveal of RAISINS CRD",
+    "text": "Automatic Reveal of RAISINS CRD\n\n\n\n\n\n\n\nR\n\n\n\n\nRA\n\n\n\n\nRAI\n\n\n\n\nRAIS\n\n\n\n\nRAISI\n\n\n\n\nRAISIN\n\n\n\n\nRAISINS\n\n\n\n\nRAISINS \n\n\n\n\nRAISINS C\n\n\n\n\nRAISINS CR\n\n\n\n\nRAISINS CRD"
+  },
+  {
+    "objectID": "index.html#advanced-plotting",
+    "href": "index.html#advanced-plotting",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Advanced plotting",
+    "text": "Advanced plotting"
+  },
+  {
+    "objectID": "index.html#section-4",
+    "href": "index.html#section-4",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "ANALYSE AND EXPLORE\n\n\n\n\nPublication Ready Tables 📑\n\n\nAdvanced Plots 🎓\n\n\nAI Interpretation 📒\n\n\nMultivariate Analysis 📊\n\n\nExport in PDF,HTML,WORD 📈"
+  },
+  {
+    "objectID": "index.html#ai-interpretation",
+    "href": "index.html#ai-interpretation",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "AI Interpretation",
+    "text": "AI Interpretation\n\nAI INTERPRETATION\n\n\n\nRAISINS CRD integrates AI-driven interpretation to enhance the analytical process, making complex statistical results more accessible and insightful."
+  },
+  {
+    "objectID": "index.html#center-transitionzoom",
+    "href": "index.html#center-transitionzoom",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "{center transition=“zoom”}",
+    "text": "{center transition=“zoom”}\n\nAI INTERPRETATION\n\nRAISINS CRD integrates AI-driven interpretation to enhance the analytical process, making complex statistical results more accessible and insightful.\nWith AI-powered insights, users can:\n🔹 Automate Result Summaries – Instantly generate publication-ready interpretations of statistical analyses, saving time on manual reporting.\n🔹 Detect Key Patterns & Trends – AI identifies significant variables, correlations, and outliers, providing deeper insights into the dataset.\n\n\n\n\nRaisins juggle plots, teal light leaks swirling"
+  },
+  {
+    "objectID": "index.html#section-5",
+    "href": "index.html#section-5",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "Still Confused ? \n\nJUST RELAX !"
+  },
+  {
+    "objectID": "index.html#advanced-plots",
+    "href": "index.html#advanced-plots",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Advanced Plots",
+    "text": "Advanced Plots\n\nAdvanced Plots"
+  },
+  {
+    "objectID": "index.html#transitionconvex",
+    "href": "index.html#transitionconvex",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "{.transition=“convex”}",
+    "text": "{.transition=“convex”}\nADVANCED PLOTS ### Customization features"
+  },
+  {
+    "objectID": "index.html#section-6",
+    "href": "index.html#section-6",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "ADVANCED PLOTS and CUSTOMISATION FEATURES"
+  },
+  {
+    "objectID": "index.html#want-to-create-one",
+    "href": "index.html#want-to-create-one",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Want to create one ?",
+    "text": "Want to create one ?\n\n\nUSE CREATE DATASET OPTION"
+  },
+  {
+    "objectID": "index.html#section-7",
+    "href": "index.html#section-7",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "AI INTERPRETATION\n\n\nRAISINS CRD integrates AI-driven interpretation to enhance the analytical process, making complex statistical results more accessible and insightful.\n\n\n\n\n\nwhat more do you need when there is RAISINS CRD"
+  },
+  {
+    "objectID": "index.html#section-8",
+    "href": "index.html#section-8",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "Confusion with Interpretation?\n\n\n\n\n\n\n\nWe are there to guide you"
+  },
+  {
+    "objectID": "index.html#center-transitionconvex-imagescrd20ana201.gif",
+    "href": "index.html#center-transitionconvex-imagescrd20ana201.gif",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "{.center transition=“convex”} (images/CRD%20ANA%20(1).gif)",
+    "text": "{.center transition=“convex”} (images/CRD%20ANA%20(1).gif)\n\nStill confused ?"
+  },
+  {
+    "objectID": "index.html#section-9",
+    "href": "index.html#section-9",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "MULTIVARIATE ANALYSIS\n\n.\n\nMANOVA & PCA"
+  },
+  {
+    "objectID": "index.html#center-transtion-convex",
+    "href": "index.html#center-transtion-convex",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "{.center transtion= “convex”}",
+    "text": "{.center transtion= “convex”}\n\nConfusion with Interpretation ?\n\n\nWe are there to guide you 🧑‍🏫"
+  },
+  {
+    "objectID": "index.html#upload-your-dataset",
+    "href": "index.html#upload-your-dataset",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Upload Your Dataset",
+    "text": "Upload Your Dataset\n\nHave a dataset to Analyse?\n\n\n\n\n\n\nDON’T WAIT! JUST UPLOAD"
+  },
+  {
+    "objectID": "index.html#clean-your-data",
+    "href": "index.html#clean-your-data",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Clean Your Data",
+    "text": "Clean Your Data\n\n\n\n&lt;div class=\"chat-bubble\"&gt;Here's the Model data!&lt;/div&gt;\n&lt;img src=\"images/clipboard-853544563.png\" class=\"fade-image\" width=\"534\" height=\"434\"&gt;\n\n\n\nMAKE A CLEAN DATASET"
+  },
+  {
+    "objectID": "index.html#create-a-dataset",
+    "href": "index.html#create-a-dataset",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Create a Dataset",
+    "text": "Create a Dataset\n\nWant to create one?\n\n\n\n\n\nUSE CREATE DATASET OPTION"
+  },
+  {
+    "objectID": "index.html#relax-with-crd",
+    "href": "index.html#relax-with-crd",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Relax with CRD",
+    "text": "Relax with CRD\n\nStill Confused?\n\n\n\n\n\nJUST RELAX!"
+  },
+  {
+    "objectID": "index.html#guidance-available",
+    "href": "index.html#guidance-available",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Guidance Available",
+    "text": "Guidance Available\n\nConfusion with Interpretation?\n\n\n\n\n\nWe are there to guide you 🧑‍🏫"
+  },
+  {
+    "objectID": "index.html#multivariate-analysis",
+    "href": "index.html#multivariate-analysis",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "MULTIVARIATE ANALYSIS",
+    "text": "MULTIVARIATE ANALYSIS"
+  },
+  {
+    "objectID": "index.html#thank-you",
+    "href": "index.html#thank-you",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Thank You",
+    "text": "Thank You"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Introduction",
+    "text": "Introduction\n\n\nRAISINS CRD\n\n\nDeveloped by —a complete solution for Completely Randomized Designs.\n\n\n\n\nPowerful analytics, AI insights, and publication-ready outputs."
+  },
+  {
+    "objectID": "index.html#get-started",
+    "href": "index.html#get-started",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Get Started",
+    "text": "Get Started\n\nHave a Dataset to Analyse?\n\n\n\n\n\nUpload Now!"
+  },
+  {
+    "objectID": "index.html#clean-data",
+    "href": "index.html#clean-data",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Clean Data",
+    "text": "Clean Data\n\n\n\n&lt;span class=\"chat-bubble\"&gt;Model Data Ready!&lt;/span&gt;\n&lt;img src=\"images/clipboard-853544563.png\" class=\"image-slide-right\" width=\"400\"&gt;\n\n\n\nMake a Clean Dataset"
+  },
+  {
+    "objectID": "index.html#create-data",
+    "href": "index.html#create-data",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Create Data",
+    "text": "Create Data\n\nNeed a Dataset?\n\n\n\n\n\nUse Create Dataset Option"
+  },
+  {
+    "objectID": "index.html#features",
+    "href": "index.html#features",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Features",
+    "text": "Features\n\nAnalyse and Explore\n\n\n\nPublication Ready Tables 📑\n\n\nAdvanced Plots 🎓\n\n\nAI Interpretation 📒"
+  },
+  {
+    "objectID": "index.html#relax",
+    "href": "index.html#relax",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Relax",
+    "text": "Relax\n\nStill Confused?\n\n\n\n\n\nJust Relax!"
+  },
+  {
+    "objectID": "index.html#ai-insights",
+    "href": "index.html#ai-insights",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "AI Insights",
+    "text": "AI Insights\n\nAI Interpretation\n\n\n\nSimplifying complex stats with AI-driven insights."
+  },
+  {
+    "objectID": "index.html#support",
+    "href": "index.html#support",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Support",
+    "text": "Support\n\nConfused with Interpretation?\n\n\n\n\n\nWe’re here to guide you 🧑‍🏫"
+  },
+  {
+    "objectID": "index.html#conclusion",
+    "href": "index.html#conclusion",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "Conclusion",
+    "text": "Conclusion"
+  },
+  {
+    "objectID": "index.html#section-10",
+    "href": "index.html#section-10",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "",
+    "text": "Where to access ?\n\n\n\n👉www.raisins.live"
+  },
+  {
+    "objectID": "index.html#manova-pca",
+    "href": "index.html#manova-pca",
+    "title": "RAISINS CRD - What’s Inside?",
+    "section": "MANOVA & PCA",
+    "text": "MANOVA & PCA"
+  }
+]
