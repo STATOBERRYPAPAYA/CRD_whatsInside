@@ -13,7 +13,7 @@ format:
 author: "Team STATOBERRY LLP"
 date: 15/03/2024
 date-format: "ddd Do MMMM YYYY"
-footer: "RAISINS at Statoberry LLP"
+footer: ""
 from: markdown+emoji
 ---
 
@@ -85,7 +85,8 @@ Here's the Model data!
 
 ##  {.center transition="zoom"}
 
-<center>**Want to create one ?**</center>
+<center>**Want to create one ?**</center>  
+You can now easily create datasets in RAISINS
 
 ![](images/template%20data.png){width="771"}
 
@@ -106,6 +107,12 @@ Here's the Model data!
 <li class="fragment fade-in">
 
 Publication Ready Tables :bookmark_tabs:
+
+</li>
+
+<li class="fragment fade-in">
+
+In-built transformation :ledger:
 
 </li>
 
@@ -141,7 +148,8 @@ Export in PDF,HTML,WORD :chart_with_upwards_trend:
 
 <center>
 
-**Still Confused ?** ![](images/CRD%20ANA%20(1).gif){fig-align="center"}
+**Still Confused ?** ![](images/CRD%20ANA%20(1).gif){fig-align="center"} 
+See the process, its super easy -- upload and click. Just like GRAPES
 
 <center>**JUST RELAX !**</center>
 
